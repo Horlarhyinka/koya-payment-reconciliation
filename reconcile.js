@@ -25,7 +25,7 @@ for (const line of lines) {
   }
 
 }
-åç
+
 Object.values(store).forEach(s=>{
     if(s.status === "success") {
         count++
